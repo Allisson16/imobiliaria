@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+/* == estilo global ==*/
+div {
+    padding-top: 45px ;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.p {
+    background-color: #afddfb;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.pa {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+/* == estilo global ==*/
+/* == 1º seção ==*/
+.p a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.p img {
+    width: 150px;
+}
+/* == 1º seção ==*/
+/* == 2º seção ==*/
+.banner {
+    margin-top: 50px;
+    padding-top: 0px;
+}
+/* == 2º seção ==*/
+/* == estilo destaque ==*/
+span {
+    font-weight: bold;
+}
+/* == estilo destaque ==*/
+/* == 3º seção ==*/
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+h2 {
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+.img {
+    width: 450px;
+}
+.texto-azul {
+    color: #1d80c1;
+}
+/* == 3º seção ==*/
+/* == 4º seção ==*/
+.servicos, .contato {
+    background-color: #1d80c1;
+}
+h3 {
+    color: #ffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+.servicos p {
+    color: #ffff;
+    line-height: 42px;
+    font-size: 22px;
+    width: 700px;
+    text-align: center;
+}
+.texto-amarelo {
+    color: #fff81b;
+}
+.lista-servicos {
+    width: 135px;
+    margin: 40px auto 40px;
+}
+.item-lista-servicos {
+    color: #ffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+    width: 700px;
+}
+/* == 4º seção ==*/
+/* == 6º seção ==*/
+.contato {
+    background-color: #1d80c1;
+}
+.pa-contato {
+    color: #ffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.lista-contato {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.link-contato {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+iframe {
+    width: 650px;
+    height: 300px;
+}
